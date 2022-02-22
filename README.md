@@ -3,3 +3,5 @@ Learners need to analyze the data to get useful insights on top teams, winning d
 problem statement helps in understanding and applying confidence intervals to a healthcare related problem.
 The third problem statement will make learners apply statistical techniques like design experiment and
 hypothesis testing on designing golf data.
+
+Tech stack: Descriptive and inferential statistics, Hypothesis testing, confidence interval, Distribution.
